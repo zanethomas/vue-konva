@@ -7,6 +7,7 @@ if (typeof window !== 'undefined' && !window.Konva) {
 }
 
 const KONVA_NODES = [
+  'Segment',
   'Layer',
   'FastLayer',
   'Group',
